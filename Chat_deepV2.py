@@ -154,7 +154,7 @@ if prompt:
 
     client = OpenAI(
             base_url="https://openrouter.ai/api/v1",
-            api_key="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",
+            api_key="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",
         )
     
     #登入後，語氣改變
