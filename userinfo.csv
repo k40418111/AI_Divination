@@ -1,0 +1,4 @@
+username,password,role,count,logged_in
+user1,password1,會員,3,False
+user2,password2,尊貴會員,10000000,False
+guest,11111,會員,1,False
